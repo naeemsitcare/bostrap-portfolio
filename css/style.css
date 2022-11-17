@@ -1,0 +1,8 @@
+.myclass{
+    margin: 0;
+    background: 
+    linear-gradient(to right, white 0%, rgb(170,170,245)50%);
+    height: 100vh;
+    text-align: center;
+    color: #fff;
+}
